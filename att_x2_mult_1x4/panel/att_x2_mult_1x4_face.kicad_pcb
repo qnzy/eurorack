@@ -78,7 +78,7 @@
 
   (footprint "eurorack_footprints:panel_jackhole" (layer "F.Cu")
     (tedit 0) (tstamp 091eb157-a747-4d4e-aeab-41f93762e11b)
-    (at 114.3 83.82)
+    (at 114.3 81.28)
     (attr smd)
     (fp_text reference "REF**" (at 0 -0.5 unlocked) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -551,27 +551,8 @@
   )
 
   (footprint "eurorack_footprints:panel_jackhole" (layer "F.Cu")
-    (tedit 0) (tstamp 47d61525-158f-47dc-960b-e073af574cc7)
-    (at 104.14 137.16)
-    (attr smd)
-    (fp_text reference "REF**" (at 0 -0.5 unlocked) (layer "F.SilkS") hide
-      (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp aaf72d19-9288-4aa4-81fc-373193740a0b)
-    )
-    (fp_text value "panel_jackhole" (at 0 1 unlocked) (layer "F.Fab") hide
-      (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 9aaa0219-8601-4f8a-b38f-e12aa100027d)
-    )
-    (fp_text user "${REFERENCE}" (at 0 2.5 unlocked) (layer "F.Fab") hide
-      (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 31560dc1-e911-40a1-90eb-45ba36a4607b)
-    )
-    (pad "" np_thru_hole circle (at 0 0) (size 6.3 6.3) (drill 6.3) (layers F&B.Cu) (tstamp b80f934d-4480-42d8-b31d-f97d859c9956))
-  )
-
-  (footprint "eurorack_footprints:panel_jackhole" (layer "F.Cu")
     (tedit 0) (tstamp 4e1dba3b-fe29-4290-9ddc-09b62db77b60)
-    (at 114.3 116.84)
+    (at 114.3 115.3)
     (attr smd)
     (fp_text reference "REF**" (at 0 -0.5 unlocked) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -590,7 +571,7 @@
 
   (footprint "eurorack_footprints:panel_jackhole" (layer "F.Cu")
     (tedit 0) (tstamp 72cb46e7-020b-4b96-bd01-bf1da5afe088)
-    (at 104.14 116.84)
+    (at 104.14 115.3)
     (attr smd)
     (fp_text reference "REF**" (at 0 -0.5 unlocked) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -630,7 +611,7 @@
 
   (footprint "eurorack_footprints:panel_pothole" (layer "F.Cu")
     (tedit 0) (tstamp b806a59a-c450-4c9e-8978-4585f51abbc3)
-    (at 109.22 67.31)
+    (at 109.22 64.77)
     (attr smd)
     (fp_text reference "REF**" (at 0 -0.5 unlocked) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -649,7 +630,7 @@
 
   (footprint "eurorack_footprints:panel_jackhole" (layer "F.Cu")
     (tedit 0) (tstamp d0f79199-1d4c-4c2d-9cd0-5669ef2be632)
-    (at 104.14 83.82)
+    (at 104.14 81.28)
     (attr smd)
     (fp_text reference "REF**" (at 0 -0.5 unlocked) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -666,47 +647,9 @@
     (pad "" np_thru_hole circle (at 0 0) (size 6.3 6.3) (drill 6.3) (layers F&B.Cu) (tstamp 91c5381b-5570-4864-9f82-4d8523bafe42))
   )
 
-  (footprint "eurorack_footprints:panel_jackhole" (layer "F.Cu")
-    (tedit 0) (tstamp d269625a-ac55-4315-bba1-6010acae4290)
-    (at 104.14 149.86)
-    (attr smd)
-    (fp_text reference "REF**" (at 0 -0.5 unlocked) (layer "F.SilkS") hide
-      (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp ee028db7-309b-4bca-8f4f-057ed3494856)
-    )
-    (fp_text value "panel_jackhole" (at 0 1 unlocked) (layer "F.Fab") hide
-      (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 3088f747-7223-44e9-8ae1-74cec3ca0c57)
-    )
-    (fp_text user "${REFERENCE}" (at 0 2.5 unlocked) (layer "F.Fab") hide
-      (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp a18d2b2a-6227-4d92-9454-342e052f9ca6)
-    )
-    (pad "" np_thru_hole circle (at 0 0) (size 6.3 6.3) (drill 6.3) (layers F&B.Cu) (tstamp ee148f78-99a4-4745-8ac5-e22d95c26654))
-  )
-
-  (footprint "eurorack_footprints:panel_jackhole" (layer "F.Cu")
-    (tedit 0) (tstamp d5095a16-9e32-463e-9cf6-d724e730af5d)
-    (at 114.3 137.16)
-    (attr smd)
-    (fp_text reference "REF**" (at 0 -0.5 unlocked) (layer "F.SilkS") hide
-      (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 5dcbb686-677f-42fe-853b-55659eb52560)
-    )
-    (fp_text value "panel_jackhole" (at 0 1 unlocked) (layer "F.Fab") hide
-      (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 6293dd04-ecd8-498a-8ff8-cd533b607feb)
-    )
-    (fp_text user "${REFERENCE}" (at 0 2.5 unlocked) (layer "F.Fab") hide
-      (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp d0c35ee8-264a-41af-84c2-a2664cc4acae)
-    )
-    (pad "" np_thru_hole circle (at 0 0) (size 6.3 6.3) (drill 6.3) (layers F&B.Cu) (tstamp 475908c5-df1a-49ed-a06d-5c5cd9681df9))
-  )
-
   (footprint "eurorack_footprints:panel_pothole" (layer "F.Cu")
     (tedit 0) (tstamp df8d7250-c0dd-4e23-ae5f-a8183ce227d4)
-    (at 109.22 100.33)
+    (at 109.22 98.79)
     (attr smd)
     (fp_text reference "REF**" (at 0 -0.5 unlocked) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -723,52 +666,147 @@
     (pad "" np_thru_hole circle (at 0 0) (size 7.2 7.2) (drill 7.2) (layers F&B.Cu) (tstamp 72416a34-85bb-43f6-af61-2dfcf4c6ec62))
   )
 
-  (footprint "eurorack_footprints:panel_jackhole" (layer "F.Cu")
-    (tedit 0) (tstamp e2b4b759-35b4-49c7-b778-b8f3a5954d2d)
-    (at 114.3 149.86)
+  (footprint "eurorack_footprints:panel_jackhole" (layer "B.Cu")
+    (tedit 0) (tstamp 2880f304-1fc2-403c-8868-5b59b43f8cc8)
+    (at 104.14 142.12 180)
     (attr smd)
-    (fp_text reference "REF**" (at 0 -0.5 unlocked) (layer "F.SilkS") hide
-      (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp fc3a1f3c-12ff-4667-804b-ee763c2147ff)
+    (fp_text reference "REF**2" (at 0 0.5 unlocked) (layer "B.SilkS") hide
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+      (tstamp c472b787-a15d-4184-902e-35d62069abd8)
     )
-    (fp_text value "panel_jackhole" (at 0 1 unlocked) (layer "F.Fab") hide
-      (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 0384c63f-d1ea-4a29-abd0-237d7d7f4783)
+    (fp_text value "panel_jackhole" (at 0 -1 unlocked) (layer "B.Fab") hide
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+      (tstamp 8fc5e93b-4f92-4079-aea8-01809a9260cd)
     )
-    (fp_text user "${REFERENCE}" (at 0 2.5 unlocked) (layer "F.Fab") hide
-      (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp babb5cb1-fea6-485a-bccf-49c12d328824)
+    (fp_text user "${REFERENCE}" (at 0 -2.5 unlocked) (layer "B.Fab") hide
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+      (tstamp d32ac0be-b7cf-4096-81af-b36adaddd535)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 6.3 6.3) (drill 6.3) (layers F&B.Cu) (tstamp eecd1f4c-58c7-4b20-a0ed-c51ae310f553))
+    (pad "" np_thru_hole circle (at 0 0 180) (size 6.3 6.3) (drill 6.3) (layers F&B.Cu) (tstamp 765ddd8e-9cc2-409f-acd9-c725405b3e4b))
   )
 
-  (gr_line (start 104.14 137.16) (end 114.3 137.16) (layer "F.SilkS") (width 0.5) (tstamp 0087cb2c-006a-45dd-9182-9ea1c46c4af9))
-  (gr_line (start 112.395 107.95) (end 114.935 107.95) (layer "F.SilkS") (width 0.5) (tstamp 0937a0a0-1937-4557-adbc-4de0e8a3d054))
-  (gr_arc (start 103.505 74.93) (mid 109.22 58.596215) (end 114.935 74.93) (layer "F.SilkS") (width 0.5) (tstamp 0c31c72e-3b33-42f8-989b-c864dcbaaa80))
-  (gr_line (start 100.076 88.9) (end 118.11 88.9) (layer "F.SilkS") (width 0.5) (tstamp 177dd9c5-6f8d-4350-a9c3-63d5619428de))
-  (gr_line (start 104.14 137.16) (end 104.14 149.86) (layer "F.SilkS") (width 0.5) (tstamp 2586cfd1-ba4d-47da-8fec-546465b0a26d))
-  (gr_line (start 103.505 74.93) (end 102.235 72.39) (layer "F.SilkS") (width 0.5) (tstamp 26bf18a9-9f32-4ac1-9805-b3965d0247d0))
-  (gr_line (start 103.505 107.95) (end 102.235 105.41) (layer "F.SilkS") (width 0.5) (tstamp 2ac6d0a7-10dc-4256-9b77-209b395852d6))
-  (gr_arc (start 102.235 72.39) (mid 110.532136 60.791451) (end 112.395 74.93) (layer "F.SilkS") (width 0.5) (tstamp 999b161f-5897-4fca-bd7b-38510d7d5f1c))
-  (gr_line (start 100.33 121.92) (end 118.364 121.92) (layer "F.SilkS") (width 0.5) (tstamp a7893cca-20fa-44e5-a98b-2af5ddad6345))
-  (gr_arc (start 102.235 105.41) (mid 110.532136 93.811451) (end 112.395 107.95) (layer "F.SilkS") (width 0.5) (tstamp abd9ccdf-d086-4743-9f0b-079a087468f8))
-  (gr_line (start 104.14 149.86) (end 114.3 149.86) (layer "F.SilkS") (width 0.5) (tstamp c9a93bc6-752f-4f57-ab74-fb34120f39f2))
-  (gr_arc (start 103.505 107.95) (mid 109.22 91.616215) (end 114.935 107.95) (layer "F.SilkS") (width 0.5) (tstamp d30456ad-f090-4b3a-a8ea-2d8ff1f91a0b))
-  (gr_line (start 114.3 137.16) (end 114.3 149.86) (layer "F.SilkS") (width 0.5) (tstamp da01c1a5-a4ad-44e4-a64f-8f39e030476a))
-  (gr_line (start 112.395 74.93) (end 114.935 74.93) (layer "F.SilkS") (width 0.5) (tstamp fe4a87d0-db25-4d2e-82a9-f08c43dcecae))
-  (gr_text "OUT" (at 114.3 78.74) (layer "F.SilkS") (tstamp 4a71e6a3-bc6b-438f-854d-82bae3785b33)
+  (footprint "eurorack_footprints:panel_jackhole" (layer "B.Cu")
+    (tedit 0) (tstamp 29e274f4-6195-4fe5-aa44-835c2ccc5800)
+    (at 104.14 129.42 180)
+    (attr smd)
+    (fp_text reference "REF**" (at 0 0.5 unlocked) (layer "B.SilkS") hide
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+      (tstamp 7f77dbc4-c608-4709-8686-a33c7e4e4d46)
+    )
+    (fp_text value "panel_jackhole" (at 0 -1 unlocked) (layer "B.Fab") hide
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+      (tstamp 2b847d20-bfa3-414b-afee-499ee6841910)
+    )
+    (fp_text user "${REFERENCE}" (at 0 -2.5 unlocked) (layer "B.Fab") hide
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+      (tstamp 3f4c8780-6ce3-4d1f-b949-82cd9da0dfd6)
+    )
+    (pad "" np_thru_hole circle (at 0 0 180) (size 6.3 6.3) (drill 6.3) (layers F&B.Cu) (tstamp 0e68ec0b-f8da-48ba-ab25-77812a224364))
+  )
+
+  (footprint "eurorack_footprints:panel_jackhole" (layer "B.Cu")
+    (tedit 0) (tstamp 7425dd7b-772b-4824-8d89-f59ec5af0e37)
+    (at 114.3 129.42 180)
+    (attr smd)
+    (fp_text reference "REF**1" (at 0 0.5 unlocked) (layer "B.SilkS") hide
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+      (tstamp 1d5c4916-64dd-409c-8dbc-07711ab17a90)
+    )
+    (fp_text value "panel_jackhole" (at 0 -1 unlocked) (layer "B.Fab") hide
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+      (tstamp 7fd50438-7ca1-4495-ae28-850509946f4f)
+    )
+    (fp_text user "${REFERENCE}" (at 0 -2.5 unlocked) (layer "B.Fab") hide
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+      (tstamp 5f09f099-290e-4bab-abfa-3e8788f97ade)
+    )
+    (pad "" np_thru_hole circle (at 0 0 180) (size 6.3 6.3) (drill 6.3) (layers F&B.Cu) (tstamp 38b4060f-257d-4e73-b0bd-bea974a1bc4e))
+  )
+
+  (footprint "eurorack_footprints:panel_jackhole" (layer "B.Cu")
+    (tedit 0) (tstamp bec2063a-4f03-43ef-ac50-4a6a8c78f384)
+    (at 114.3 154.82 180)
+    (attr smd)
+    (fp_text reference "REF**5" (at 0 0.5 unlocked) (layer "B.SilkS") hide
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+      (tstamp bef37f0a-f081-4a04-97f0-b142c9c2112e)
+    )
+    (fp_text value "panel_jackhole" (at 0 -1 unlocked) (layer "B.Fab") hide
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+      (tstamp 5e849cd9-38a9-4070-957a-739b8cc4b514)
+    )
+    (fp_text user "${REFERENCE}" (at 0 -2.5 unlocked) (layer "B.Fab") hide
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+      (tstamp e74e4e87-1c1d-407d-97fe-1cb8fda2a3a2)
+    )
+    (pad "" np_thru_hole circle (at 0 0 180) (size 6.3 6.3) (drill 6.3) (layers F&B.Cu) (tstamp 07ddca3e-fac2-4729-984f-a5659ed699bd))
+  )
+
+  (footprint "eurorack_footprints:panel_jackhole" (layer "B.Cu")
+    (tedit 0) (tstamp c306fbf7-aea6-465f-bd5d-91514d5f4e31)
+    (at 104.14 154.82 180)
+    (attr smd)
+    (fp_text reference "REF**4" (at 0 0.5 unlocked) (layer "B.SilkS") hide
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+      (tstamp b4ce1415-05df-41f4-94b9-5a978f6bce60)
+    )
+    (fp_text value "panel_jackhole" (at 0 -1 unlocked) (layer "B.Fab") hide
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+      (tstamp 17bcb2ae-da11-492d-bd5d-5eb15f5f8c19)
+    )
+    (fp_text user "${REFERENCE}" (at 0 -2.5 unlocked) (layer "B.Fab") hide
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+      (tstamp 06564ad3-2034-4515-8fd8-9dffa98f71a3)
+    )
+    (pad "" np_thru_hole circle (at 0 0 180) (size 6.3 6.3) (drill 6.3) (layers F&B.Cu) (tstamp 50556bda-7c96-4e00-a296-365b742c96a8))
+  )
+
+  (footprint "eurorack_footprints:panel_jackhole" (layer "B.Cu")
+    (tedit 0) (tstamp fc852fb5-f553-4a4d-908e-07daa91d047c)
+    (at 114.3 142.12 180)
+    (attr smd)
+    (fp_text reference "REF**3" (at 0 0.5 unlocked) (layer "B.SilkS") hide
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+      (tstamp 732bd0a8-128f-4935-9861-f62258eed8d4)
+    )
+    (fp_text value "panel_jackhole" (at 0 -1 unlocked) (layer "B.Fab") hide
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+      (tstamp c694c4ba-bf31-4fdd-b743-367a22d1a3c2)
+    )
+    (fp_text user "${REFERENCE}" (at 0 -2.5 unlocked) (layer "B.Fab") hide
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+      (tstamp 3d91cd1b-814b-4876-b637-ede2aef22fdf)
+    )
+    (pad "" np_thru_hole circle (at 0 0 180) (size 6.3 6.3) (drill 6.3) (layers F&B.Cu) (tstamp 71f023e4-7a8c-4d2e-b8c1-157adc1ad0b0))
+  )
+
+  (gr_line (start 112.395 106.41) (end 114.935 106.41) (layer "F.SilkS") (width 0.5) (tstamp 0937a0a0-1937-4557-adbc-4de0e8a3d054))
+  (gr_arc (start 103.505 72.39) (mid 109.22 56.056215) (end 114.935 72.39) (layer "F.SilkS") (width 0.5) (tstamp 0c31c72e-3b33-42f8-989b-c864dcbaaa80))
+  (gr_line (start 100.076 86.36) (end 118.11 86.36) (layer "F.SilkS") (width 0.5) (tstamp 177dd9c5-6f8d-4350-a9c3-63d5619428de))
+  (gr_line (start 103.505 72.39) (end 102.235 69.85) (layer "F.SilkS") (width 0.5) (tstamp 26bf18a9-9f32-4ac1-9805-b3965d0247d0))
+  (gr_line (start 103.505 106.41) (end 102.235 103.87) (layer "F.SilkS") (width 0.5) (tstamp 2ac6d0a7-10dc-4256-9b77-209b395852d6))
+  (gr_line (start 109.855 129.54) (end 110.49 129.54) (layer "F.SilkS") (width 0.5) (tstamp 70ba61e8-4357-4390-bbd9-73163bef0eaf))
+  (gr_line (start 114.3 154.94) (end 114.3 129.54) (layer "F.SilkS") (width 0.5) (tstamp 82345239-1798-47e3-bc03-4629078fda8b))
+  (gr_line (start 107.95 129.54) (end 108.585 129.54) (layer "F.SilkS") (width 0.5) (tstamp 8420d50a-b80e-40fc-858f-4f89cdc625b9))
+  (gr_arc (start 102.235 69.85) (mid 110.532145 58.25142) (end 112.395 72.39) (layer "F.SilkS") (width 0.5) (tstamp 999b161f-5897-4fca-bd7b-38510d7d5f1c))
+  (gr_line (start 100.33 121.38) (end 118.364 121.38) (layer "F.SilkS") (width 0.5) (tstamp a7893cca-20fa-44e5-a98b-2af5ddad6345))
+  (gr_arc (start 102.235 103.87) (mid 110.532145 92.27142) (end 112.395 106.41) (layer "F.SilkS") (width 0.5) (tstamp abd9ccdf-d086-4743-9f0b-079a087468f8))
+  (gr_line (start 104.14 154.94) (end 104.14 129.54) (layer "F.SilkS") (width 0.5) (tstamp c9a93bc6-752f-4f57-ab74-fb34120f39f2))
+  (gr_arc (start 103.505 106.41) (mid 109.22 90.076215) (end 114.935 106.41) (layer "F.SilkS") (width 0.5) (tstamp d30456ad-f090-4b3a-a8ea-2d8ff1f91a0b))
+  (gr_line (start 112.395 72.39) (end 114.935 72.39) (layer "F.SilkS") (width 0.5) (tstamp fe4a87d0-db25-4d2e-82a9-f08c43dcecae))
+  (gr_text "OUT" (at 114.3 76.2) (layer "F.SilkS") (tstamp 4a71e6a3-bc6b-438f-854d-82bae3785b33)
     (effects (font (size 2 2) (thickness 0.15)))
   )
-  (gr_text "OUT" (at 114.3 111.76) (layer "F.SilkS") (tstamp 705f9bbe-10d6-4ad8-9d31-72e20b98bbd7)
+  (gr_text "OUT" (at 114.3 110.22) (layer "F.SilkS") (tstamp 705f9bbe-10d6-4ad8-9d31-72e20b98bbd7)
     (effects (font (size 2 2) (thickness 0.15)))
   )
-  (gr_text "IN" (at 104.14 111.76) (layer "F.SilkS") (tstamp 845adcda-af6d-47b0-946f-e1a3d19729f5)
+  (gr_text "IN" (at 104.14 110.22) (layer "F.SilkS") (tstamp 845adcda-af6d-47b0-946f-e1a3d19729f5)
     (effects (font (size 2 2) (thickness 0.15)))
   )
-  (gr_text "PAT" (at 109.22 53.34) (layer "F.SilkS") (tstamp ae7ddb74-1b1c-4581-8252-2e95bb3dfeb4)
+  (gr_text "PAT" (at 109.22 51.435) (layer "F.SilkS") (tstamp ae7ddb74-1b1c-4581-8252-2e95bb3dfeb4)
     (effects (font (size 2.5 2.5) (thickness 0.5)))
   )
-  (gr_text "IN" (at 104.14 78.74) (layer "F.SilkS") (tstamp bf793fab-1425-42d7-82db-f440379698cd)
+  (gr_text "IN" (at 104.14 76.2) (layer "F.SilkS") (tstamp bf793fab-1425-42d7-82db-f440379698cd)
     (effects (font (size 2 2) (thickness 0.15)))
   )
 
