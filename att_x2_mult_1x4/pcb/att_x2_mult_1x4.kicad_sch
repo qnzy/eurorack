@@ -213,7 +213,7 @@
   )
 
   (no_connect (at 83.82 72.39) (uuid 3c6a55cb-da75-4b91-93ee-7eabb7eacb76))
-  (no_connect (at 171.45 72.39) (uuid 3c6a55cb-da75-4b91-93ee-7eabb7eacb76))
+  (no_connect (at 171.45 72.39) (uuid 3c6a55cb-da75-4b91-93ee-7eabb7eacb77))
 
   (wire (pts (xy 92.71 138.43) (xy 85.09 138.43))
     (stroke (width 0) (type default) (color 0 0 0 0))
