@@ -441,7 +441,7 @@
     (uuid 1868205c-ee30-4243-a4a5-3b8be43dc87c)
     (property "Reference" "R1" (id 0) (at 99.06 72.39 90))
     (property "Value" "1k" (id 1) (at 93.98 72.39 90))
-    (property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal" (id 2) (at 96.52 68.072 90)
+    (property "Footprint" "Resistor_SMD:R_0805_2012Metric" (id 2) (at 96.52 68.072 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 96.52 69.85 0)
@@ -540,7 +540,7 @@
     (uuid 918a10d6-bd6e-4091-a5c1-2b6426167538)
     (property "Reference" "R2" (id 0) (at 186.69 72.39 90))
     (property "Value" "1k" (id 1) (at 181.61 72.39 90))
-    (property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal" (id 2) (at 184.15 68.072 90)
+    (property "Footprint" "Resistor_SMD:R_0805_2012Metric" (id 2) (at 184.15 68.072 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 184.15 69.85 0)
@@ -648,10 +648,10 @@
       (reference "J8") (unit 1) (value "AudioJack2_SwitchT") (footprint "eurorack_footprints:audio_jack_pj-398sm")
     )
     (path "/1868205c-ee30-4243-a4a5-3b8be43dc87c"
-      (reference "R1") (unit 1) (value "1k") (footprint "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal")
+      (reference "R1") (unit 1) (value "1k") (footprint "Resistor_SMD:R_0805_2012Metric")
     )
     (path "/918a10d6-bd6e-4091-a5c1-2b6426167538"
-      (reference "R2") (unit 1) (value "1k") (footprint "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal")
+      (reference "R2") (unit 1) (value "1k") (footprint "Resistor_SMD:R_0805_2012Metric")
     )
     (path "/6a01f3f0-dee7-4458-934b-b9d2961ad3ec"
       (reference "RV1") (unit 1) (value "100k") (footprint "eurorack_footprints:pot1_A")
