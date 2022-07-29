@@ -1,0 +1,7 @@
+pro pcb         1.0
+pro panel       1.0
+pro potti+cap   1.0
+pro jack        0.2
+
+
+
